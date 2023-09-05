@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/high-speed-realistic-modern-train-locomotive-railroad_1284-7135.jpg?w=826&t=st=1686740258~exp=1686740858~hmac=597638837faaec1f561591949d05a6bf3d2e70bbf56b740be98c0ec4d7e0e589);
+    background-size: center;
+    font-family:  Georgia, serif;
+    font-weight: bold;
+    text-align: center;
+    /* opacity: 0.1; */
+    
+  }
+  
+  
+  h1{
+    margin: 10px 10px;
+    padding-top: 100px;
+  }
+  button{
+    width:200px;
+    height:50px;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 25px;
+    color: white;
+    border-radius: 7px;
+    display: block;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+  }
+  
+  #increment{
+    background: darkred;
+  }
+  
+  #increment:hover {
+    background: blue;
+  }
+  
+  #save-btn{
+    background: green; 
+    margin-top: 10px;
+
+  }
+
+  p{
+    color: blue;
+    padding-top: 200px
+  }
